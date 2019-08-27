@@ -4,6 +4,7 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>C:/Users/u1274842/Documents/GitHub/Line-Climber/Content/Images/Nextboxbg.png</File>
     <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Fonts/MyFont.spritefont</File>
     <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/background.jpg</File>
     <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/block_1_32x32.png</File>
@@ -27,26 +28,6 @@
     <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/titleScreen.png</File>
   </SourceFiles>
   <DestFiles>
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
-    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

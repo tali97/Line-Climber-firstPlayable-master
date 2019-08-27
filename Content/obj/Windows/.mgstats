@@ -1,4 +1,5 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/u1274842/Documents/GitHub/Line-Climber/Content/Images/Nextboxbg.png","C:/Users/u1274842/Documents/GitHub/Line-Climber/Content/bin/Windows/Images/Nextboxbg.xnb","TextureProcessor","Texture2DContent",1688,57685,0.108916
 "C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Fonts/MyFont.spritefont","C:/Users/u1274867/Downloads/Tetris_mono-master/Content/bin/Windows/Fonts/MyFont.xnb","FontDescriptionProcessor","SpriteFontContent",2008,37905,0.2667408
 "C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/background.jpg","C:/Users/u1274867/Downloads/Tetris_mono-master/Content/bin/Windows/Images/background.xnb","TextureProcessor","Texture2DContent",34533,983125,0.0439432
 "C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/block_1_32x32.png","C:/Users/u1274867/Downloads/Tetris_mono-master/Content/bin/Windows/Images/block_1_32x32.xnb","TextureProcessor","Texture2DContent",283,4181,0.0089909

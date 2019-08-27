@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/u1274867/Downloads/Line-Climber-firstPlayable-master/Content/Images/blockRed.png</SourceFile>
-  <SourceTime>2019-08-27T01:59:20-06:00</SourceTime>
-  <DestFile>C:/Users/u1274867/Downloads/Line-Climber-firstPlayable-master/Content/bin/Windows/Content/Images/blockRed.xnb</DestFile>
-  <DestTime>2019-08-27T09:19:05.2201432-06:00</DestTime>
+  <SourceFile>C:/Users/u1274867/Downloads/Line-Climber-master/Content/Images/blockRed.png</SourceFile>
+  <SourceTime>2019-08-27T12:57:18-06:00</SourceTime>
+  <DestFile>C:/Users/u1274867/Downloads/Line-Climber-master/Content/bin/Windows/Content/Images/blockRed.xnb</DestFile>
+  <DestTime>2019-08-27T13:06:15.0349417-06:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -59,7 +59,7 @@ namespace Tetris
                 float leftEdge = 250 + Board.Blocks[i].X * 32;
                 float bottomEdge = 200 + (24 - Board.Blocks[i].Y) * 32;
                 // Console.WriteLine("{0},{1}", playerY, bottomEdge);
-                if ((topY == bottomEdge && leftX >= leftEdge && leftX <= rightEdge) || (topY == bottomEdge && rightX >= leftEdge && rightX <= rightEdge))
+                if ((topY == bottomEdge && leftX > leftEdge && leftX < rightEdge) || (topY == bottomEdge && rightX > leftEdge && rightX < rightEdge) || (topY == bottomEdge && leftX == leftEdge && rightX == rightEdge))
                 {
                     collideIndex = i;
                     return true;
