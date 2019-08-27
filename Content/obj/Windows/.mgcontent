@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Fonts/MyFont.spritefont</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/background.jpg</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/block_1_32x32.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/block_blue.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/block_cyan.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/block_green.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/block_orange.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/block_purple.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/block_red.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/block_white.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/block_yellow.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/blockAzur.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/blockBlue.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/blockGreen.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/blockOrange.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/blockPurple.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/blockRed.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/blockWhite.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/blockYellow.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/donekindof.png</File>
+    <File>C:/Users/u1274867/Downloads/Tetris_mono-master/Content/Images/titleScreen.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

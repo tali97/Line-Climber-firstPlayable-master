@@ -1,0 +1,426 @@
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Tetris.exe
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Tetris.pdb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.dll
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.xml
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Programming\Games_C#\Tetris\Tetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+E:\Programming\Games_C#\Tetris\Tetris\obj\x86\Debug\Tetris.csproj.CoreCompileInputs.cache
+E:\Programming\Games_C#\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+E:\Programming\Games_C#\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Content\Images\blockWhite.xnb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Content\Fonts\MyFont.xnb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Content\Images\blockRed.xnb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Content\Images\blockAzur.xnb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Content\Images\blockYellow.xnb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Content\Images\blockBlue.xnb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Content\Images\blockOrange.xnb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Content\Images\blockGreen.xnb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Content\Images\blockPurple.xnb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Content\Images\background.xnb
+E:\Programming\Games_C#\Tetris\Tetris\bin\Windows\x86\Debug\Content\Images\titleScreen.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Content\Images\background.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Content\Images\blockAzur.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Content\Images\blockBlue.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Content\Images\blockGreen.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Content\Images\blockOrange.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Content\Images\blockPurple.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Content\Images\blockRed.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Content\Images\blockWhite.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Content\Images\blockYellow.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Content\Images\titleScreen.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Content\Fonts\MyFont.xnb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Tetris.exe
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\Tetris.pdb
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\obj\x86\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\obj\x86\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\obj\x86\Debug\Tetris.csproj.CopyComplete
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\u1274842\Downloads\Tetris-master\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\background.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\blockAzur.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\blockBlue.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\blockGreen.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\blockOrange.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\blockPurple.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\blockRed.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\blockWhite.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\blockYellow.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\titleScreen.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Fonts\MyFont.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Tetris.exe
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Tetris.pdb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\u1274842\Downloads\Tetris\obj\x86\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\u1274842\Downloads\Tetris\obj\x86\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\u1274842\Downloads\Tetris\obj\x86\Debug\Tetris.csproj.CopyComplete
+C:\Users\u1274842\Downloads\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\u1274842\Downloads\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\block_blue.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\block_cyan.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\block_green.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\block_orange.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\block_purple.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\block_red.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\block_white.xnb
+C:\Users\u1274842\Downloads\Tetris\bin\Windows\x86\Debug\Content\Images\block_yellow.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\background.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\blockAzur.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\blockBlue.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\blockGreen.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\blockOrange.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\blockPurple.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\blockRed.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\blockWhite.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\blockYellow.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\block_blue.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\block_cyan.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\block_green.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\block_orange.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\block_purple.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\block_red.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\block_white.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\block_yellow.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\titleScreen.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Fonts\MyFont.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Tetris.exe
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Tetris.pdb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\u1274867\Downloads\Tetris_mono-master\obj\x86\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\u1274867\Downloads\Tetris_mono-master\obj\x86\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\u1274867\Downloads\Tetris_mono-master\obj\x86\Debug\Tetris.csproj.CopyComplete
+C:\Users\u1274867\Downloads\Tetris_mono-master\obj\x86\Debug\Tetris.exe
+C:\Users\u1274867\Downloads\Tetris_mono-master\obj\x86\Debug\Tetris.pdb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\block_1_32x32.xnb
+C:\Users\u1274867\Downloads\Tetris_mono-master\bin\Windows\x86\Debug\Content\Images\donekindof.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\background.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\blockAzur.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\blockBlue.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\blockGreen.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\blockOrange.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\blockPurple.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\blockRed.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\blockWhite.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\blockYellow.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\block_1_32x32.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\block_blue.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\block_cyan.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\block_green.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\block_orange.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\block_purple.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\block_red.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\block_white.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\block_yellow.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\donekindof.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Images\titleScreen.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Content\Fonts\MyFont.xnb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Tetris.exe
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\Tetris.pdb
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\obj\x86\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\obj\x86\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\obj\x86\Debug\Tetris.csproj.CopyComplete
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\obj\x86\Debug\Tetris.exe
+C:\Users\najie\Documents\Tetris_mono-master_Player-master\obj\x86\Debug\Tetris.pdb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\background.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\blockAzur.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\blockBlue.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\blockGreen.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\blockOrange.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\blockPurple.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\blockRed.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\blockWhite.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\blockYellow.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\block_1_32x32.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\block_blue.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\block_cyan.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\block_green.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\block_orange.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\block_purple.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\block_red.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\block_white.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\block_yellow.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\donekindof.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Images\titleScreen.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Content\Fonts\MyFont.xnb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Tetris.exe
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\Tetris.pdb
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\najie\Documents\GitHub\Line-Climber\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\najie\Documents\GitHub\Line-Climber\obj\x86\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\najie\Documents\GitHub\Line-Climber\obj\x86\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\najie\Documents\GitHub\Line-Climber\obj\x86\Debug\Tetris.csproj.CopyComplete
+C:\Users\najie\Documents\GitHub\Line-Climber\obj\x86\Debug\Tetris.exe
+C:\Users\najie\Documents\GitHub\Line-Climber\obj\x86\Debug\Tetris.pdb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\background.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockAzur.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockBlue.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockGreen.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockOrange.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockPurple.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockRed.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockWhite.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockYellow.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_1_32x32.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_blue.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_cyan.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_green.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_orange.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_purple.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_red.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_white.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_yellow.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\donekindof.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\titleScreen.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Content\Fonts\MyFont.xnb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Tetris.exe
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\Tetris.pdb
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\u1274842\Downloads\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\u1274842\Downloads\Line-Climber-master\obj\x86\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\u1274842\Downloads\Line-Climber-master\obj\x86\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\u1274842\Downloads\Line-Climber-master\obj\x86\Debug\Tetris.csproj.CopyComplete
+C:\Users\u1274842\Downloads\Line-Climber-master\obj\x86\Debug\Tetris.exe
+C:\Users\u1274842\Downloads\Line-Climber-master\obj\x86\Debug\Tetris.pdb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\background.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockAzur.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockBlue.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockGreen.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockOrange.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockPurple.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockRed.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockWhite.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockYellow.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_1_32x32.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_blue.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_cyan.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_green.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_orange.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_purple.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_red.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_white.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_yellow.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\donekindof.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\titleScreen.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Content\Fonts\MyFont.xnb
+F:\Line-Climber-master\bin\Windows\x86\Debug\Tetris.exe
+F:\Line-Climber-master\bin\Windows\x86\Debug\Tetris.pdb
+F:\Line-Climber-master\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.dll
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Line-Climber-master\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.xml
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Line-Climber-master\obj\x86\Debug\Tetris.csprojAssemblyReference.cache
+F:\Line-Climber-master\obj\x86\Debug\Tetris.csproj.CoreCompileInputs.cache
+F:\Line-Climber-master\obj\x86\Debug\Tetris.csproj.CopyComplete
+F:\Line-Climber-master\obj\x86\Debug\Tetris.exe
+F:\Line-Climber-master\obj\x86\Debug\Tetris.pdb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\background.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockAzur.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockBlue.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockGreen.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockOrange.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockPurple.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockRed.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockWhite.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\blockYellow.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_1_32x32.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_blue.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_cyan.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_green.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_orange.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_purple.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_red.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_white.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\block_yellow.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\donekindof.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\titleScreen.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Fonts\MyFont.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Tetris.exe
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Tetris.pdb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.dll
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.xml
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\Line-Climber-master (1)\Line-Climber-master\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+F:\Line-Climber-master (1)\Line-Climber-master\obj\x86\Debug\Tetris.csproj.CoreCompileInputs.cache
+F:\Line-Climber-master (1)\Line-Climber-master\obj\x86\Debug\Tetris.csproj.CopyComplete
+F:\Line-Climber-master (1)\Line-Climber-master\obj\x86\Debug\Tetris.exe
+F:\Line-Climber-master (1)\Line-Climber-master\obj\x86\Debug\Tetris.pdb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\end_flag_96x96.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\ground_320x96.xnb
+F:\Line-Climber-master (1)\Line-Climber-master\bin\Windows\x86\Debug\Content\Images\ground_96x64.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\background.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\blockAzur.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\blockBlue.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\blockGreen.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\blockOrange.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\blockPurple.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\blockRed.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\blockWhite.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\blockYellow.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\block_1_32x32.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\block_blue.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\block_cyan.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\block_green.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\block_orange.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\block_purple.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\block_red.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\block_white.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\block_yellow.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\donekindof.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\end_flag_96x96.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\ground_320x96.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\ground_96x64.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\start_96x96.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Images\titleScreen.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Content\Fonts\MyFont.xnb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Tetris.exe
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\Tetris.pdb
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\obj\x86\Debug\Tetris.csprojAssemblyReference.cache
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\obj\x86\Debug\Tetris.csproj.CoreCompileInputs.cache
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\obj\x86\Debug\Tetris.csproj.CopyComplete
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\obj\x86\Debug\Tetris.exe
+C:\Users\u1274867\Downloads\Line-Climber-firstPlayable-master\obj\x86\Debug\Tetris.pdb
